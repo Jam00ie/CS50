@@ -1,6 +1,6 @@
 # CS50
-Documentation of my CS50X journey.
+Documentation of my CS50 journey.
 Please check out the wiki!
 
 
-_Currently on week 0 - Scratch._
+_Currently on CS50x week 0 - Scratch._
