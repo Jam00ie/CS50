@@ -2,4 +2,4 @@
 Documentation of my CS50 journey.
 Please check out the wiki!
 
-_Currently on CS50x week 8 - SQL._
+_Currently on CS50x week 8 - HTML, CSS, JavaScript._
