@@ -1,0 +1,2 @@
+1. I would calculate the average by running AVG() on each of energy, valence, and danceability. Then, I would find the average of those values to find the aura.
+2. I would propose asking the listener to match moods to songs they listen to during that mood; then I would use the examples to calculate the average danceability, energy and valence of each song and use that value as a reference to find the most prominant mood in their top 100 most listened to songs.
